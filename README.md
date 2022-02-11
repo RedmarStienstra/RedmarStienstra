@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RedmarStienstra
+- 👀 I’m interested in software development in the Learning and Development world
+- 💞️ Looking to collaborate? Contact me!
